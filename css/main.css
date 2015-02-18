@@ -9,3 +9,22 @@
 .nodecor>a{
 	color:#666666;
 }
+.hero{
+	background: url("/home/ayushgp/Documents/FAPS/img/Events.jpg") repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
+    box-shadow: 0 0 0 2000px rgba(0, 0, 0, 0.15) inset;
+    height: 80%;
+}
+.ptable{
+	padding:25px;
+}
+.pback{
+	background:url("");
+}
+.intro-text {
+	padding-top: 10%;
+	color: rgba(255, 255, 255, 1);
+	text-align: center;
+	font-size:120px;
+	font-family:'Comic sans ms';
+	opacity:.7;
+}
