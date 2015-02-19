@@ -21,10 +21,24 @@
 	background:url("");
 }
 .intro-text {
-	padding-top: 10%;
+	padding-top: 5%;
 	color: rgba(255, 255, 255, 1);
 	text-align: center;
-	font-size:120px;
-	font-family:'Comic sans ms';
+	font-size:80px;
+	font-family:'Fredericka the Great';
+	text-decoration:italic;
 	opacity:.7;
+}
+.events{
+	 margin:15px 0px 15px 0px;
+	 
+}
+.event-in{
+	padding:10px;
+	border:1px solid;
+	border-color:#cccccc;
+	background-image:url(../img/halftone.png);
+}
+.venue{
+	padding-left:5px;
 }
