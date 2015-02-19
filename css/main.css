@@ -10,10 +10,21 @@
 	color:#666666;
 }
 .hero{
-	background: url("/home/ayushgp/Documents/FAPS/img/Events.jpg") repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
-    box-shadow: 0 0 0 2000px rgba(0, 0, 0, 0.15) inset;
+	background: url("../img/Events.jpg") repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
+    box-shadow: 0px 8px 10px #888888;
     height: 80%;
 }
+.hero-photo{
+	background: url("../img/photography.jpg") repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
+    box-shadow: 0px 8px 10px #888888;
+    height: 80%;
+}
+.hero-fine{
+	background: url("../img/fine.jpg") repeat scroll 0 0 / cover rgba(0, 0, 0, 0);
+    box-shadow: 0px 8px 10px #888888;
+    height: 80%;
+}
+
 .ptable{
 	padding:25px;
 }
@@ -21,7 +32,7 @@
 	background:url("");
 }
 .intro-text {
-	padding-top: 5%;
+	padding-top: 10%;
 	color: rgba(255, 255, 255, 1);
 	text-align: center;
 	font-size:80px;
@@ -31,6 +42,7 @@
 }
 .events{
 	 margin:15px 0px 15px 0px;
+	 padding-top:10px;
 	 
 }
 .event-in{
@@ -41,4 +53,12 @@
 }
 .venue{
 	padding-left:5px;
+}
+
+.headerforothersdiv{
+	padding-left: 20px;
+	padding-top: 20px;
+}
+.headerforothers{
+	font-family: 'Titillium Web', sans-serif;
 }
